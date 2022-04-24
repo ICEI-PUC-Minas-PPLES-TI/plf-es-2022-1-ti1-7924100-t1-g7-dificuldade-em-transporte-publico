@@ -52,32 +52,19 @@ Engenharia de Software
   A dependência pelo transporte público nos dias de hoje está cada vez mais difícil, já que esses trazem para seus passageiros várias dificuldades; como a superlotação, atraso nos horários, falta de segurança e a baixa infraestrutura nos veículos. 
 
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
  Criar um aplicativo que possa fornecer aos usuários informações mais precisas sobre suas linhas de ônibus.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
  Por meio das pesquisas feitas pelo grupo, descobriu-se que várias pessoas enfrentam os mesmos problemas todos dos dias quando vão usar o transporte público, entre elas estão os integrantes do grupo. A partir disso, a fim de facilitar o dia a dia desses passsageiros e solucionar alguns dos empecilhos enfrentados, o grupo achou esse tema interessante .
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
 Nosso público alvo são pessoas que pegam ônibus todos os dias, geralmente, essas pertencem à classe média ou baixa, ou seja, não possuem renda o sficiente para não utilizarem o transporte público
 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 Front-end:Utilizaremos CSS,HTML e JavaScript.
@@ -107,20 +94,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Trabalhadora doméstica |Que os ônibus passem com maior frêquencia |Esperar menos e poder passar mais temp com meus filhos |
 |Atendente de banco     | De mais infraestrutura nos ônibus        | Não chegar suado no serviço                           |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
