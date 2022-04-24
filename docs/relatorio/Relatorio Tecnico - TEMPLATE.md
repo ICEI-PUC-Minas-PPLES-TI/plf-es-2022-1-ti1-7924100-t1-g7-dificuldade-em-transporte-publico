@@ -125,23 +125,14 @@ Nosso público alvo são pessoas que pegam ônibus todos os dias, geralmente, es
 ## Personas e Mapas de Empatia
 
 
-![image](https://user-images.githubusercontent.com/104324504/164997413-ab1427e9-b48a-408e-84d1-562ab7cfbfc9.png)
-![image](https://user-images.githubusercontent.com/104324504/164997417-bf943189-9e70-4df3-b3b4-5429b5dc07f8.png)
+>![image](https://user-images.githubusercontent.com/104324504/164997413-ab1427e9-b48a-408e-84d1-562ab7cfbfc9.png)
+>![image](https://user-images.githubusercontent.com/104324504/164997417-bf943189-9e70-4df3-b3b4-5429b5dc07f8.png)
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-> 
 > 
 > **Exemplo de Persona**
 > 
