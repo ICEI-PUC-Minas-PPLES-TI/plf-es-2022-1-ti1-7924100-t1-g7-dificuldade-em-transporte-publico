@@ -200,10 +200,8 @@ Pesquisar sobre as Linhas de Onibus em BH - Guilherme/
  
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
+A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com)foi utilizado para hospedagem do repositório `upstream`.
+>
 > O projeto segue a seguinte convenção para o nome de branchs:
 > 
 > - `master`: versão estável já testada do software
