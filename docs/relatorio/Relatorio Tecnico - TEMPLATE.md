@@ -1,16 +1,9 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
-
-Dificuldade 
-`CURSO` 
-
+ Dificuldade de transporte público para estudantes
+CURSO
 Engenharia de Software
+
 ## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
 > - Edmilson Martins Pinheiro Junior
 > - Caio Elias Rodrigues Araujo
