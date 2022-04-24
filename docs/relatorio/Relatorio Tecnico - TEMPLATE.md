@@ -273,10 +273,13 @@ No desenvolvimento do Design Thinking, utilizamos ferramentas como o GitHub e o 
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
-Pesquisar sobre as linhas de ônibus - Guilherme
-Criar uma ferramenta de busca - Edmilson
-Criar uma página de dúvidas - Caio
-Ferramenta para saber a localização do ônibus - Geral
+Criar pagina Inicial - Guilherme
+Criar pagina Linhas - Edmilson
+Criar pagina Noticias - Diogo
+Criar pagina Duvidas - Caio
+Criar pagina Login e Identificação - Diogo
+Criar ferramenta de busca - Edmilson
+Pesquisar sobre as Linhas de Onibus em BH - Guilherme
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -321,7 +324,7 @@ Ferramenta para saber a localização do ônibus - Geral
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório upstream
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
