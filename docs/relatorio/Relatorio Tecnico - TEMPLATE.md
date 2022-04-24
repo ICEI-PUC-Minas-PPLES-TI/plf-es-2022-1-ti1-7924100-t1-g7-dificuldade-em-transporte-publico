@@ -128,7 +128,12 @@ Nosso público alvo são pessoas que pegam ônibus todos os dias, geralmente, es
 ![marcelo 1](https://user-images.githubusercontent.com/104324504/164999142-b05cd723-2182-42a4-810a-c6b19fb3b511.png)
 ![marcelo 2](https://user-images.githubusercontent.com/104324504/164999143-5cc7d2d7-6417-4e8e-977c-38849d3ce957.png)
 -
-![cida](https://user-images.githubusercontent.com/104324504/164999237-560e2765-9b00-4e0c-aa79-809439443297.jpg)
+![cida 1](https://user-images.githubusercontent.com/104324504/164999455-5956f034-ec3f-4181-9ec8-3e34b73fb5e1.png)
+![cida 2](https://user-images.githubusercontent.com/104324504/164999462-0aa44a4b-6e77-4eed-82f5-9b683d548923.png)
+-
+![rodrigo 1](https://user-images.githubusercontent.com/104324504/164999541-adda4f2c-3d29-48df-901f-f96e74c6c3a4.png)
+![Rodrigo 2](https://user-images.githubusercontent.com/104324504/164999544-1584a87c-3317-4b16-a582-65fbab96a009.png)
+
 
 
 
