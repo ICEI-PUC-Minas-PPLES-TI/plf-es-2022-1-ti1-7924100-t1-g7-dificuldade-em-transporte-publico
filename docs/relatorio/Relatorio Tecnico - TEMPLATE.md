@@ -259,7 +259,7 @@ Pesquisar sobre as Linhas de Onibus em BH - Guilherme
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-Para fazer os protótipos, foi utilizado o paint.
+|Protótipo  | Paint |
 > Liste as ferramentas empregadas no desenvolvimento do
 > projeto, justificando a escolha delas, sempre que possível.
 > 
