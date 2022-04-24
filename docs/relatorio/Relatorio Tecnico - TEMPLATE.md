@@ -80,11 +80,9 @@ Nosso público alvo são pessoas que pegam ônibus todos os dias, geralmente, es
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
+Front-end:Utilizaremos CSS,HTML e JavaScript.
 
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
 
@@ -236,52 +234,29 @@ No desenvolvimento do Design Thinking, utilizamos ferramentas como o GitHub e o 
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
-Criar pagina Inicial - Guilherme
-Criar pagina Linhas - Edmilson
-Criar pagina Noticias - Diogo
-Criar pagina Duvidas - Caio
-Criar pagina Login e Identificação - Diogo
-Criar ferramenta de busca - Edmilson
-Pesquisar sobre as Linhas de Onibus em BH - Guilherme
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Criar pagina Inicial - Guilherme/
+Criar pagina Linhas - Edmilson/
+Criar pagina Noticias - Diogo/
+Criar pagina Duvidas - Caio/
+Criar pagina Login e Identificação - Diogo/
+Criar ferramenta de busca - Edmilson/
+Pesquisar sobre as Linhas de Onibus em BH - Guilherme/
 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVOBMZX9s=/ | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-t1-g7-dificuldade-em-transporte-publico | 
 |Protótipo  | Paint |
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
 > As ferramentas empregadas no projeto são:
 > 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
-
+> - Editor de código:VisualCode
+> - Ferramentas de comunicação:Whatssapp e Discord
+> - Ferramentas de diagramação:AdobePhotoshop e Paint
+> - Plataforma de hospedagem:Github
+ 
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o Git, sendo que o Github foi utilizado para hospedagem do repositório upstream
