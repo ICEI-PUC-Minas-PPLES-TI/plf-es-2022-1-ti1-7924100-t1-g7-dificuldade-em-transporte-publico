@@ -4,7 +4,6 @@ CURSO
 Engenharia de Software
 
 ## Participantes
-> Os membros do grupo são: 
 > - Edmilson Martins Pinheiro Junior
 > - Caio Elias Rodrigues Araujo
 > - Guilherme Gaspar
@@ -98,7 +97,7 @@ Engenharia de Software
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso público alvo são pessoas que pegam ônibus todos os dias, geralmente, essas pertencem à classe média ou baixa, ou seja, não possuem renda o sficiente para não utilizarem o transporte público
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -117,7 +116,7 @@ Engenharia de Software
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
