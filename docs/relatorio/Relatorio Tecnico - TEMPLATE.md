@@ -273,8 +273,10 @@ No desenvolvimento do Design Thinking, utilizamos ferramentas como o GitHub e o 
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
-
-......  COLOQUE AQUI O SEU TEXTO ......
+Pesquisar sobre as linhas de ônibus - Guilherme
+Criar uma ferramenta de busca - Edmilson
+Criar uma página de dúvidas - Caio
+Ferramenta para saber a localização do ônibus - Geral
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
