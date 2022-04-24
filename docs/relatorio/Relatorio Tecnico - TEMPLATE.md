@@ -136,19 +136,6 @@ Nosso público alvo são pessoas que pegam ônibus todos os dias, geralmente, es
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -232,12 +219,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+Pensamos em criar um site de fácil acesso para agradar a todos, pois pessoas de todas as idades irão utilizar nosso aplicativo, ou seja, nosso site será simples e objetivo. Sendo assim, utilizamos imagens e letras grandes para auxiliar todas as pessoas e ainda atender á todos os requisitos funcionais e não funcionais determinados antes.
+Levamos também em conta as experiencia vividas pelos entrevistados, que reclamaram muito dos aplicativos já existentes devido a baixa velocidade, a falta de informações e até mesmo informações incorretas em relação aos horários que os ônibus passariam.
 
 ## User Flow
 
@@ -279,19 +262,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Metodologia
+![metodo](https://user-images.githubusercontent.com/104324504/165000111-d7f1053a-d0ec-4213-a6e7-1d3943869e42.jpg)
+A metodologia adotada pelo grupo, foi de forma precisa e direta, aonde fizemos uma divisão de papeis no qual todo o grupo trabalhou de forma coerente, unida e sempre tentando evoluir juntos.
+No desenvolvimento do Design Thinking, utilizamos ferramentas como o GitHub e o Miro, e ainda utilizamos também o Discord para realizarmos reuniões para desenvolver o mesmo. Ainda utilizamos as informações que pegamos nas entrevistas para desenvolver da melhor maneira o Design Thinking.
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
 > **Links Úteis**:
 > - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
 > - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
