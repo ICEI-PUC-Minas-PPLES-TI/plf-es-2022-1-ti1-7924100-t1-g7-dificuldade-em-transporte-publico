@@ -124,9 +124,10 @@ Nosso público alvo são pessoas que pegam ônibus todos os dias, geralmente, es
 > realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
-Marcelo 
+
 ![marcelo 1](https://user-images.githubusercontent.com/104324504/164999142-b05cd723-2182-42a4-810a-c6b19fb3b511.png)
 ![marcelo 2](https://user-images.githubusercontent.com/104324504/164999143-5cc7d2d7-6417-4e8e-977c-38849d3ce957.png)
+-
 
 
 
@@ -139,12 +140,7 @@ Marcelo
 
 
 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+
 
 
 ## Histórias de Usuários
