@@ -49,19 +49,9 @@ Engenharia de Software
 
 ## Problema
 
-......  A dependência pelo transporte público nos dias de hoje está cada vez mais difícil, já que esses trazem para seus passageiros várias dificuldades; como a superlotação, atraso nos horários, falta de segurança e a baixa infraestrutura nos veículos. ......
+  A dependência pelo transporte público nos dias de hoje está cada vez mais difícil, já que esses trazem para seus passageiros várias dificuldades; como a superlotação, atraso nos horários, falta de segurança e a baixa infraestrutura nos veículos. 
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
+
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
@@ -69,30 +59,15 @@ Engenharia de Software
 
 ## Objetivos
 
-......  Criar um aplicativo que possa fornecer aos usuários informações mais precisas sobre suas linhas de ônibus......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
+ Criar um aplicativo que possa fornecer aos usuários informações mais precisas sobre suas linhas de ônibus.
+ 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-......  Por meio das pesquisas feitas pelo grupo, descobriu-se que várias pessoas enfrentam os mesmos problemas todos dos dias quando vão usar o transporte público, entre elas estão os integrantes do grupo. A partir disso, a fim de facilitar o dia a dia desses passsageiros e solucionar alguns dos empecilhos enfrentados, o grupo achou esse tema interessante .....
+ Por meio das pesquisas feitas pelo grupo, descobriu-se que várias pessoas enfrentam os mesmos problemas todos dos dias quando vão usar o transporte público, entre elas estão os integrantes do grupo. A partir disso, a fim de facilitar o dia a dia desses passsageiros e solucionar alguns dos empecilhos enfrentados, o grupo achou esse tema interessante .
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
@@ -100,23 +75,11 @@ Engenharia de Software
 
 Nosso público alvo são pessoas que pegam ônibus todos os dias, geralmente, essas pertencem à classe média ou baixa, ou seja, não possuem renda o sficiente para não utilizarem o transporte público
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
 > **Links Úteis**:
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
-
 
 
 > Apresente uma visão geral do que será abordado nesta parte do
@@ -296,10 +259,7 @@ Pesquisar sobre as Linhas de Onibus em BH - Guilherme
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
-
->
+Para fazer os protótipos, foi utilizado o paint.
 > Liste as ferramentas empregadas no desenvolvimento do
 > projeto, justificando a escolha delas, sempre que possível.
 > 
