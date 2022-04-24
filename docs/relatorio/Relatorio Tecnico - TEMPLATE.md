@@ -145,10 +145,11 @@ Nosso público alvo são pessoas que pegam ônibus todos os dias, geralmente, es
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`   | QUERO/PRECISO ... `FUNCIONALIDADE`       |PARA ... `MOTIVO/VALOR`                                |
+|--------------------   |------------------------------------      |----------------------------------------               |
+|Estudante              | Saber os horários que o ônibus passa     | Me organizar melhor e não atrasar para a faculdade    |
+|Trabalhadora doméstica |Que os ônibus passem com maior frêquencia |Esperar menos e poder passar mais temp com meus filhos |
+|Atendente de banco     | De mais infraestrutura nos ônibus        | Não chegar suado no serviço                           |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
