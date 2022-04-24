@@ -1,12 +1,10 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
+Dificuldade 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
+Engenharia de Software
 ## Participantes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -14,8 +12,10 @@
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Edmilson Martins Pinheiro Junior
+> - Caio Elias Rodrigues Araujo
+> - Guilherme Gaspar
+> - Diogo Torres
 
 # Estrutura do Documento
 
@@ -56,7 +56,7 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  A dependência pelo transporte público nos dias de hoje está cada vez mais difícil, já que esses trazem para seus passageiros várias dificuldades; como a superlotação, atraso nos horários, falta de segurança e a baixa infraestrutura nos veículos. ......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -76,7 +76,7 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Criar um aplicativo que possa fornecer aos usuários informações mais precisas sobre suas linhas de ônibus......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -89,7 +89,7 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Por meio das pesquisas feitas pelo grupo, descobriu-se que várias pessoas enfrentam os mesmos problemas todos dos dias quando vão usar o transporte público, entre elas estão os integrantes do grupo. A partir disso, a fim de facilitar o dia a dia desses passsageiros e solucionar alguns dos empecilhos enfrentados, o grupo achou esse tema interessante .....
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
