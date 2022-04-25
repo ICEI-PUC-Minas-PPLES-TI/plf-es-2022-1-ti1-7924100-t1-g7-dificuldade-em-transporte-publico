@@ -8,7 +8,7 @@ Engenharia de Software
 > - Edmilson Martins Pinheiro Junior
 > - Caio Elias Rodrigues Araujo
 > - Guilherme Gaspar
-> - Diogo Torres
+> - Diogo Chaves Torres
 
 # Estrutura do Documento
 
@@ -49,12 +49,12 @@ Engenharia de Software
 
 ## Problema
 
-  A dependência pelo transporte público nos dias de hoje está cada vez mais difícil, já que esses trazem para seus passageiros várias dificuldades; como a superlotação, atraso nos horários, falta de segurança e a baixa infraestrutura nos veículos. 
+  A dependência pelo transporte público nos dias de hoje está cada vez mais difícil, já que esses trazem para seus passageiros várias dificuldades ao longo dos dias; como a superlotação, atraso nos horários, falta de segurança e a baixa infraestrutura nos veículos. 
 
 
 ## Objetivos
 
- Criar um aplicativo que possa fornecer aos usuários informações mais precisas sobre suas linhas de ônibus.
+ Criar um aplicativo que possa fornecer aos usuários informações mais precisas sobre suas linhas de ônibus, os horarios que os onibus irão passar e a melhor linha para o usuário utilizar .
  
 
 ## Justificativa
@@ -63,11 +63,11 @@ Engenharia de Software
 
 ## Público-Alvo
 
-Nosso público alvo são pessoas que pegam ônibus todos os dias, geralmente, essas pertencem à classe média ou baixa, ou seja, não possuem renda o sficiente para não utilizarem o transporte público
+ Nosso público alvo são pessoas que pegam ônibus todos os dias, geralmente, essas pertencem à classe média ou baixa, ou seja, não possuem renda o suficiente para não utilizarem o transporte público
 
  
 # Especificações do Projeto
-Front-end:Utilizaremos CSS,HTML e JavaScript.
+ Front-end:Utilizaremos CSS,HTML e JavaScript.
 
 
 
