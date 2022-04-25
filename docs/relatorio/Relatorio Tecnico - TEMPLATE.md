@@ -130,42 +130,16 @@ Pensamos em criar um site de fácil acesso para agradar a todos, pois pessoas de
 Levamos também em conta as experiencia vividas pelos entrevistados, que reclamaram muito dos aplicativos já existentes devido a baixa velocidade, a falta de informações e até mesmo informações incorretas em relação aos horários que os ônibus passariam.
 
 ## User Flow
-
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+![user flow](https://user-images.githubusercontent.com/104324504/165002134-9b7c96ad-a11d-4bcc-ab66-c1af2da4d8d5.jpg)
+![user](https://user-images.githubusercontent.com/104324504/165002138-39679564-3154-43c3-a93a-a1e8a4e1ad11.jpg)
 
 
 ## Wireframes
-
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+![1](https://user-images.githubusercontent.com/104324504/165002234-36207af9-5303-4b73-b7e6-5a59c95c9b97.jpg)
+![22](https://user-images.githubusercontent.com/104324504/165002236-c181c455-2d35-4fc3-bba4-6eb7a1ea3093.jpg)
+![33](https://user-images.githubusercontent.com/104324504/165002239-f3666e5f-b2aa-4cbc-a91c-3680587459af.jpg)
+![44](https://user-images.githubusercontent.com/104324504/165002240-201bdced-60be-4923-a2c0-1f9ef5a72208.jpg)
+![55](https://user-images.githubusercontent.com/104324504/165002242-ad0e4efd-727a-4764-a096-fce9edc416ab.jpg)
 
 
 # Metodologia
