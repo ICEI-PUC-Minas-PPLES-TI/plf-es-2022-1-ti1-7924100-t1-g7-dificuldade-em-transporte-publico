@@ -7,7 +7,6 @@ atraso de horarios,falta de infraestrutura.
 
 * Edmilson Martins Pinheiro Junior
 * Caio Elias Rodrigues Araújo
-* Guilherme Gaspar
 * Diogo Torres
 
 ## Professores responsáveis
