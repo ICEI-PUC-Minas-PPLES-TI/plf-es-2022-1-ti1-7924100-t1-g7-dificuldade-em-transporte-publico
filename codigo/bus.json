@@ -1,0 +1,53 @@
+{
+    "regiao": [
+        {
+            "nome": "Aglomerado Santa Lúcia",
+            "rota": 101,
+            "horario": 6,
+            "tempo": 40
+        },
+        {
+            "nome": "Vila Cafezal ⇄ Rua Pouso Alto",
+            "rota": 103,
+            "horario": 8,
+            "tempo": 30
+        },
+        {
+            "nome": "Estação Lagoinha/Avenida",
+            "rota": 104,
+            "horario": 7,
+            "tempo": 35
+        },
+        {
+            "nome": "Estação Vila Oeste ⇄ Nova Cintra Via Madre",
+            "rota": 202,
+            "horario": 5,
+            "tempo": 20
+        },
+        {
+            "nome": "Morro das Pedras",
+            "rota": 203,
+            "horario": 6,
+            "tempo": 50
+        },
+        {
+            "nome": "Estação Vila Oeste ⇄ Nova Gameleira",
+            "rota": 204,
+            "horario": 8,
+            "tempo": 35
+        },
+        {
+            "nome": "Circular Oeste",
+            "rota": 206,
+            "horario": 9,
+            "tempo": 55
+        },
+        {
+            "nome": "Estação Barreiro ⇄ Jatobá Via Tirol | Noturno",
+            "rota": 308,
+            "horario": 20,
+            "tempo": 30
+        }
+    ]
+}
+

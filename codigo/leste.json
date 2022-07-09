@@ -1,0 +1,53 @@
+{
+    "leste": [
+        {
+            "nome": "Grajaú/Sion",
+            "rota": 2101,
+            "horario": 4,
+            "tempo": 55
+        },
+        {
+            "nome": "Gameleira/Serra",
+            "rota": 2102,
+            "horario": 10,
+            "tempo": 20
+        },
+        {
+            "nome": "Prado/Anchieta",
+            "rota": 2103,
+            "horario": 7,
+            "tempo": 30
+        },
+        {
+            "nome": "Nova Gameleira/BH Shopping",
+            "rota": 2104,
+            "horario": 5,
+            "tempo": 20
+        },
+        {
+            "nome": "Vista Alegre/Serra",
+            "rota": 2151,
+            "horario": 6,
+            "tempo": 35
+        },
+        {
+            "nome": "Salgado Filho/Cruzeiro",
+            "rota": 2152,
+            "horario": 8,
+            "tempo": 45
+        },
+        {
+            "nome": "Betania/Centro",
+            "rota": 2033,
+            "horario": 9,
+            "tempo": 38
+        },
+        {
+            "nome": "Bairro das Industrias/Centro",
+            "rota": 2035,
+            "horario": 21,
+            "tempo": 25
+        }
+    ]
+}
+

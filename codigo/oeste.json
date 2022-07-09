@@ -1,0 +1,53 @@
+{
+    "oeste": [
+        {
+            "nome": "Alto Caiçara ➞ Serra",
+            "rota": 4107,
+            "horario": 4,
+            "tempo": 35
+        },
+        {
+            "nome": "Pedro II/Mangabeiras",
+            "rota": 4108,
+            "horario": 12,
+            "tempo": 15
+        },
+        {
+            "nome": "Dom Cabral/Belvedere",
+            "rota": 4110,
+            "horario": 21,
+            "tempo": 20
+        },
+        {
+            "nome": "Anchieta ➞ Dom Cabral Via Escola Guignard",
+            "rota": 4111,
+            "horario":155,
+            "tempo": 55
+        },
+        {
+            "nome": "Bom Jesus/Belvedere",
+            "rota": 4113,
+            "horario": 10,
+            "tempo": 27
+        },
+        {
+            "nome": "Bh Shopping ➞ Shopping Del Rey",
+            "rota": 4150,
+            "horario": 21,
+            "tempo": 20
+        },
+        {
+            "nome": "Alto Caiçara ➞ Nova Cintra",
+            "rota": 4201,
+            "horario": 16,
+            "tempo": 45
+        },
+        {
+            "nome": "Ermelinda/Salgado Filho",
+            "rota": 4205,
+            "horario": 23,
+            "tempo": 20
+        }
+    ]
+}
+

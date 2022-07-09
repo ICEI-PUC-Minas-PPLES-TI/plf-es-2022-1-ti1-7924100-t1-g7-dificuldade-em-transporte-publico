@@ -1,0 +1,53 @@
+{
+    "norte": [
+        {
+            "nome": "Santa Inês/Santo André",
+            "rota": 9402,
+            "horario":6,
+            "tempo": 45
+        },
+        {
+            "nome": "Caiçara ➞ Paraíso | Principal",
+            "rota": 9403,
+            "horario": 8,
+            "tempo": 37
+        },
+        {
+            "nome": "Nova Esperança ➞ São Lucas",
+            "rota": 9404,
+            "horario": 4,
+            "tempo": 50
+        },
+        {
+            "nome": "Instituto Agronômico ➞ Monsenhor Messias",
+            "rota": 9405,
+            "horario": 8,
+            "tempo": 25
+        },
+        {
+            "nome": "Alto Vera Cruz ➞ Dom Bosco",
+            "rota": 9407,
+            "horario": 21,
+            "tempo": 55
+        },
+        {
+            "nome": "Santa Efigênia/Padre Eustáquio",
+            "rota": 9408,
+            "horario": 19,
+            "tempo": 25
+        },
+        {
+            "nome": "Sagrada Família/Coração Eucarístico",
+            "rota": 9410,
+            "horario": 6,
+            "tempo": 30
+        },
+        {
+            "nome": "Casa Branca ➞ São José",
+            "rota": 9411,
+            "horario": 23,
+            "tempo": 15
+        }
+    ]
+}
+
