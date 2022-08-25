@@ -1,0 +1,41 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: T1-G7 - Dificuldade de transporte público para estudantes
+authors:
+  - family-names: Elias Rodrigues Araujo
+    given-names: Caio
+  - family-names: Chaves Torres
+    given-names: Diogo
+  - family-names: Martins Pinheiro Junior
+    given-names: Edmilson
+  - family-names: Henrique Morangon Gaspar
+    given-names: Guilherme
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Augusto Lara Soares
+    given-names: Felipe
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves de Oliveira
+    given-names: Jonathan
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Felipe Dias Ferreira da Rocha
+    given-names: Roberto    
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Assis Alves da Silva
+    given-names: Simone
+
+keywords:
+  - mobilidade urbana
+  - estudantes
+  - transporte
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-t1-g7-dificuldade-em-transporte-publico
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14
